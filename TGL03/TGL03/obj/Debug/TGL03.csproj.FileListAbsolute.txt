@@ -1,0 +1,8 @@
+C:\Users\dangoth\Desktop\TGL03\TGL03\TGL03\bin\Debug\TGL03.exe.config
+C:\Users\dangoth\Desktop\TGL03\TGL03\TGL03\bin\Debug\TGL03.exe
+C:\Users\dangoth\Desktop\TGL03\TGL03\TGL03\bin\Debug\TGL03.pdb
+C:\Users\dangoth\Desktop\TGL03\TGL03\TGL03\obj\Debug\TGL03.csproj.AssemblyReference.cache
+C:\Users\dangoth\Desktop\TGL03\TGL03\TGL03\obj\Debug\TGL03.csproj.SuggestedBindingRedirects.cache
+C:\Users\dangoth\Desktop\TGL03\TGL03\TGL03\obj\Debug\TGL03.csproj.CoreCompileInputs.cache
+C:\Users\dangoth\Desktop\TGL03\TGL03\TGL03\obj\Debug\TGL03.exe
+C:\Users\dangoth\Desktop\TGL03\TGL03\TGL03\obj\Debug\TGL03.pdb
